@@ -49,3 +49,9 @@ git log
 
 git log --oneline
 	> condensed version of the git log
+
+git push 
+	> uploading files/folders from a local repo to remote repo
+
+git clone 
+	> creating a copy of a remote repo on your local machine
